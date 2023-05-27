@@ -1,0 +1,1 @@
+Python — eto yazyk programmirovaniya, kotoryy shiroko ispolzuetsya v internet-prilozheniyakh, razrabotke programmnogo obespecheniya, nauke o dannykh i mashinnom obuchenii (ML). Razrabotchiki ispolzuyut Python, potomu chto on effektiven, prost v izuchenii i rabotaet na raznykh platformakh.
